@@ -25,3 +25,4 @@ steps:
     PathtoPublish: 'dist\data'
     ArtifactName: 'drop'
     publishLocation: 'Container'
+    
